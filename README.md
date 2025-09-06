@@ -1,1 +1,3 @@
 # zed
+
+dir ~/.config/zed
